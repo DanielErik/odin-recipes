@@ -1,0 +1,100 @@
+body{
+    background-color: #00a8ff;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.menu {
+    border: 10px double #fbc531;
+    width: 600px;
+    margin: auto;
+}
+
+
+
+.title{
+    border: 16px groove #fbc531;
+    font-size: 45px;
+    text-align: center;
+    background-color: #fbc531;
+    color: #487eb0;
+    margin: 24px auto;
+    padding: 16px;
+    width: 500px;
+}
+
+.liste{      
+    width: 400px;
+    margin: 60px auto;
+    padding: 24px;
+    background-color: #fbc531;
+    color: #2f3640;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+ul {
+    margin: 24px;
+    padding: 16px;
+    padding-left: 32px;
+}
+
+a {
+    background-color: #fbc531;
+    color: #4cd137;
+    font-size: large;
+    font-weight: bold;
+    margin: 8px;
+}
+
+p{
+    margin: 20px;
+    
+}
+
+.highlight{
+    font-weight: bolder;
+    padding-top: 20px;
+}
+
+.einfuehrung{
+    justify-content: center;
+    background-color: #0097e6;
+    border: 2px solid;
+    text-align: center;
+    color: #fbc531;
+    margin: 50px auto;
+    padding: 5px;
+    font-size: 24px;
+    width: 600px;
+    line-height: 20px;
+}
+
+.bild{
+    display: block;
+    justify-content: center;
+    height: auto;
+    width: 700px;
+    border: 18px groove #fbc531;
+    margin: auto;
+}
+
+.bild img{
+    display: block;
+}
+
+.rezept{
+    width: 1000px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #0097e6;
+    border: 20px groove #fbc531;
+    font-size: x-large;
+    font-weight: 200;
+    text-align: center;
+    color: #fbc531;
+}
+
+
